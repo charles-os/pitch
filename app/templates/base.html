@@ -1,0 +1,16 @@
+{% extends 'bootstrap/base.html'%}
+
+     {% block navbar %}
+     {% include 'navbar.html' %}
+     {% endblock %}
+
+    
+     {%block styles %}
+     {{super()}}
+     <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+
+     {{ simplemde.css}}
+     {{ simplemde.js }}
+      {% endblock%}
+     
+
