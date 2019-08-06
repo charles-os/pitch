@@ -1,4 +1,4 @@
-#!/home/moringa/Documents/pitch one/virtual/bin/python
+#!/home/mannuh/Music/pitch one/virtual/bin/python
 
 import sys
 from os.path import join, dirname, exists

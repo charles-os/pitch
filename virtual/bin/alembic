@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/moringa/Documents/pitch one/virtual/bin/python" "$0" "$@"
+'''exec' "/home/mannuh/Music/pitch one/virtual/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
